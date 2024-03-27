@@ -1,5 +1,6 @@
 # ☁️ облачное книгохранилище ☁️
 ### бот, который делает облака слов за вас
+Ссылка на pythonanywhere: http://ularsent.pythonanywhere.com/
 
 ## Навигация по веткам
 *main* - файл с кодом для бота + ссылка на pythonanywhere
